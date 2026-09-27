@@ -1,0 +1,19 @@
+{
+  "category.witching-hour": "Witching Hour",
+  "key.witching-hour.gesture": "Gesture",
+  "key.witching-hour.cast_spell": "Cast Spell",
+  "key.witching-hour.snap": "Snap",
+
+  "item.witching-hour.lost_journal_white": "Lost Journal (White Magic)",
+  "item.witching-hour.lost_journal_black": "Lost Journal (Black Magic)",
+  "item.witching-hour.lost_journal_green": "Lost Journal (Green Magic)",
+  "item.witching-hour.lost_journal_orange": "Lost Journal (Orange Magic)",
+  "item.witching-hour.lost_journal_red": "Lost Journal (Red Magic)",
+  "item.witching-hour.lost_journal_blue": "Lost Journal (Blue Magic)",
+  "item.witching-hour.lost_journal_purple": "Lost Journal (Purple Magic)",
+  "item.witching-hour.lost_journal_gold": "Lost Journal (Gold Magic)",
+
+  "item.witching-hour.grimoire": "Grimoire",
+
+  "itemgroup.witchinghour_group": "Witching Hour"
+}

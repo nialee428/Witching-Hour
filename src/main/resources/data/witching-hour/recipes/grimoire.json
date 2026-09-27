@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#oP",
+    "/WF",
+    ".uB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "o": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "P": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "/": {
+      "item": "minecraft:bone"
+    },
+    "W": {
+      "item": "minecraft:writable_book"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    ".": {
+      "item": "minecraft:gunpowder"
+    },
+    "u": {
+      "item": "minecraft:glass_bottle"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "witching-hour:grimoire",
+    "count": 1
+  }
+}

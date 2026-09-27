@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "package": "net.nia.witchinghour.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractFurnaceScreenHandlerMixin",
+    "BeaconScreenHandlerMixin",
+    "BrewingStandScreenHandlerMixin",
+    "CartographyTableScreenHandlerMixin",
+    "EnchantmentScreenHandlerMixin",
+    "ExampleMixin",
+    "GenericContainerMixin",
+    "GrindstoneScreenHandlerMixin",
+    "HopperScreenHandlerMixin",
+    "ItemStackMixin",
+    "LoomScreenHandlerMixin",
+    "MobEntityMixin",
+    "ScreenHandlerMixin",
+    "ShulkerBoxScreenHandlerMixin",
+    "StonecutterScreenHandlerMixin",
+    "TargetPredicateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "ChatMessageMixin",
+    "ModelLoaderMixin"
+  ]
+}
